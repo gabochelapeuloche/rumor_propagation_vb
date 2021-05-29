@@ -1,0 +1,54 @@
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbprojAssemblyReference.cache
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.Form1.resources
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbproj.GenerateResource.cache
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.AssemblyInfoInputs.cache
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.AssemblyInfo.vb
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbproj.CoreCompileInputs.cache
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.exe
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.deps.json
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.runtimeconfig.json
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.runtimeconfig.dev.json
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.dll
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\ref\RumorPropagation.dll
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.pdb
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.dll
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\ref\RumorPropagation.dll
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.pdb
+C:\Users\Naï\Desktop\GABOCHE QUA BESOIN DE WINDOWS\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.genruntimeconfig.cache
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.exe
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.deps.json
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.runtimeconfig.json
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.runtimeconfig.dev.json
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.dll
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\ref\RumorPropagation.dll
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.pdb
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbprojAssemblyReference.cache
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.Form1.resources
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbproj.GenerateResource.cache
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.AssemblyInfoInputs.cache
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.AssemblyInfo.vb
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbproj.CoreCompileInputs.cache
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.dll
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\ref\RumorPropagation.dll
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.pdb
+C:\Users\picar\OneDrive\Bureau\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.genruntimeconfig.cache
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.exe
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.deps.json
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.runtimeconfig.json
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.runtimeconfig.dev.json
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.dll
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\ref\RumorPropagation.dll
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\bin\Debug\net5.0-windows\RumorPropagation.pdb
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbprojAssemblyReference.cache
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.Form1.resources
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbproj.GenerateResource.cache
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.AssemblyInfoInputs.cache
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.AssemblyInfo.vb
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.vbproj.CoreCompileInputs.cache
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.dll
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\ref\RumorPropagation.dll
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.pdb
+C:\Users\Naï\Desktop\RumorPropagation\RumorPropagation\obj\Debug\net5.0-windows\RumorPropagation.genruntimeconfig.cache
